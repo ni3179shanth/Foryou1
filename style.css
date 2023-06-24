@@ -1,0 +1,18 @@
+body{
+margin:0;
+padding:0;
+background:#000;
+}
+p{
+font-size:10px;
+line-height:10px;
+text-align: justify;
+-webkit-background-size:cover;
+background-size:cover ;
+background-repeat:no-repeat ;
+background-position: center;
+background: url(./wallpaperflare.com_wallpaper\ \(9\).jpg)no-repeat center/cover;
+background-attachment: fixed;
+-webkit-background-clip: text;
+-webkit-text-fill-color:rgba(10,10,114,0) ;
+}
